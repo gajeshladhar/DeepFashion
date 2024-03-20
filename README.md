@@ -18,3 +18,9 @@ Super Resolution 3.0 is a project focused on the fusion of Sentinel-2 optical an
     │   ├── notebooks       # contains training & inference notebooks   
     │   └── utils           # contains utility & helper modules
 
+<br><br>
+### ⚡ Latest SOTA Features:
+- Generates 1.25m imagery after every 5 day.
+- Get cloud free imagery upto 4 cloudy timestaps.
+- STAC APIs Integration for Data Download.
+- S3 Bucket Integration for SR3
