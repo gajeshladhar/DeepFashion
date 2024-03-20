@@ -1,7 +1,7 @@
 ### <img src="https://cdn-icons-png.flaticon.com/512/1042/1042820.png" height=24 width=24>  Super Resolution v3.0
 
 <small>
-Super Resolution 3.0 is a project focused on the fusion of Sentinel-2 optical and Sentinel-1 radar satellite data to generate high-resolution super-resolved images. The project utilizes advanced deep learning techniques to enhance the spatial resolution of satellite imagery, providing detailed and accurate insights for various applications such as environmental monitoring, agriculture, and urban planning.<br><br>
+```Super Resolution 3.0``` is a project focused on the fusion of Sentinel-2 optical and Sentinel-1 radar satellite data to generate high-resolution super-resolved images. The project utilizes advanced deep learning techniques to enhance the spatial resolution of satellite imagery, providing detailed and accurate insights for various applications such as environmental monitoring, agriculture, and urban planning.<br><br>
 </small>
 <center>
 <img src="https://r2.easyimg.io/jpn8qnkjy/screenshot_2024-03-20_230205.png" height=400 width=950>
