@@ -11,7 +11,7 @@ Super Resolution 3.0 is a project focused on the fusion of Sentinel-2 optical an
 ```
 Inference Notebook : src/notebooks/inference/inference.ipynb 
 ```
-<br><br>
+<br>
 
 #### ⚡ Latest SOTA Features:
 ```
